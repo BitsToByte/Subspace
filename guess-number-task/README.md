@@ -1,15 +1,15 @@
 # Проект 0. Угадай число
 
 ## Оглавление  
-[1. Описание проекта](.README.md#Описание-проекта)  
-[2. Какой кейс решаем?](.README.md#Какой-кейс-решаем)  
-[3. Условия соревнования](.README.md#Условия-соревнования:)
-[4. Метрика качества](.README.md#Метрика-качества)
-[5. Что практикуем](.README.md#Что-практикуем)
-[6. Краткая информация о данных](.README.md#Краткая-информация-о-данных)  
-[7. Этапы работы над проектом](.README.md#Этапы-работы-над-проектом)  
-[8. Результат](.README.md#Результат)    
-[9. Выводы](.README.md#Выводы) 
+[1. Описание проекта](https://github.com/BitsToByte/Subspace/tree/main/guess-number-task/README.md#Описание-проекта)  
+[2. Какой кейс решаем?](https://github.com/BitsToByte/Subspace/tree/main/guess-number-task/README.md#Какой-кейс-решаем)  
+[3. Условия соревнования](https://github.com/BitsToByte/Subspace/tree/main/guess-number-task/README.md#Условия-соревнования:)  
+[4. Метрика качества](https://github.com/BitsToByte/Subspace/tree/main/guess-number-task/README.md#Метрика-качества)  
+[5. Что практикуем](https://github.com/BitsToByte/Subspace/tree/main/guess-number-task/README.md#Что-практикуем)  
+[6. Краткая информация о данных](https://github.com/BitsToByte/Subspace/tree/main/guess-number-task/README.md#Краткая-информация-о-данных)  
+[7. Этапы работы над проектом](https://github.com/BitsToByte/Subspace/tree/main/guess-number-task/README.md#Этапы-работы-над-проектом)  
+[8. Результат](https://github.com/BitsToByte/Subspace/tree/main/guess-number-task/README.md#Результат)    
+[9. Выводы](https://github.com/BitsToByte/Subspace/tree/main/guess-number-task/README.md#Выводы)  
 
 ### Описание проекта    
 Угадать загаданное компьютером число за минимальное число попыток.
